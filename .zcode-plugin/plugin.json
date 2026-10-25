@@ -1,0 +1,9 @@
+{
+  "name": "session-buddy",
+  "version": "0.2.0",
+  "description": "Every conversation gets its own tidy folder: file deliverables land in buddy/<date>-<topic>/ with a README per folder and a workspace-wide buddy/INDEX.md.",
+  "author": { "name": "Yogurt1900" },
+  "skills": "./skills",
+  "commands": "./commands",
+  "hooks": "./hooks/hooks.json"
+}

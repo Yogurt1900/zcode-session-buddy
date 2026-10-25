@@ -24,11 +24,11 @@ buddy/
 
 ## 安装方式一：从 GitHub / Gitee 安装（推荐，以后能自动更新）
 
-前提：这些文件已经上传到了一个代码托管仓库（相当于网盘里的一个项目文件夹）。
+前提：仓库已经建好——你现在看到的这个页面就是它。
 
 1. 打开 ZCode，进入**插件市场**（Plugin Marketplace / 发现 页）；
 2. 点右上角的 **+**（添加插件市场）；
-3. 粘贴仓库地址，例如 `https://github.com/你的用户名/session-buddy`（Gitee 用户粘贴对应的 Gitee 地址）；
+3. 粘贴仓库地址：https://github.com/Yogurt1900/zcode-session-buddy（Gitee 同理，粘贴对应地址）；
 4. 添加成功后，在市场列表里找到 **Session Buddy（会话文件管家）**，点 **安装 / 获取**；
 5. **新开一个对话**即可生效。
 

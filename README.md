@@ -28,7 +28,7 @@ buddy/
 
 1. 打开 ZCode，进入**插件市场**（Plugin Marketplace / 发现 页）；
 2. 点右上角的 **+**（添加插件市场）；
-3. 粘贴仓库地址：https://github.com/Yogurt1900/zcode-session-buddy（Gitee 同理，粘贴对应地址）；
+3. 粘贴仓库地址：`https://github.com/Yogurt1900/zcode-session-buddy`（Gitee 同理，粘贴对应地址）；
 4. 添加成功后，在市场列表里找到 **Session Buddy（会话文件管家）**，点 **安装 / 获取**；
 5. **新开一个对话**即可生效。
 

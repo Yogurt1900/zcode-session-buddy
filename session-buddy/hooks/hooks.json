@@ -1,0 +1,23 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "process",
+            "command": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "args": [
+              "-NoProfile",
+              "-ExecutionPolicy",
+              "Bypass",
+              "-File",
+              "${CLAUDE_PLUGIN_ROOT}\\hooks\\emit-context.ps1"
+            ],
+            "timeoutMs": 15000,
+            "statusMessage": "session-buddy: 注入会话整理约定"
+          }
+        ]
+      }
+    ]
+  }
+}

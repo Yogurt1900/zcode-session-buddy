@@ -1,0 +1,17 @@
+{
+  "name": "session-buddy-market",
+  "plugins": [
+    {
+      "name": "session-buddy",
+      "source": "./session-buddy",
+      "version": "0.2.0",
+      "description": "Every conversation gets its own tidy folder: file deliverables land in buddy/<date>-<topic>/ with a README per folder and a workspace-wide buddy/INDEX.md.",
+      "displayName": "Session Buddy",
+      "displayName_i18n": { "zh-CN": "会话文件管家" },
+      "description_i18n": {
+        "zh-CN": "让每段对话拥有自己的文件夹：任务产物自动归档到 buddy/日期-主题/，每个文件夹一份人类可读的 README，另有 buddy/INDEX.md 总索引，根目录不再散乱。附 /tidy 命令，可一键整理已有工作区。"
+      },
+      "category": "productivity"
+    }
+  ]
+}
